@@ -6,7 +6,7 @@ on:
       - main  # Trigger deployment when there are changes on the 'main' branch
 
 jobs:
-  deploy:
+  asad:
     runs-on: ubuntu-latest  # Runs the job on the latest Ubuntu runner
 
     steps:
