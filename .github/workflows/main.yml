@@ -6,7 +6,7 @@ on:
       - main  # Trigger deployment when there are changes on the 'main' branch
 
 jobs:
-  myinstance:
+  deploy:
     runs-on: ubuntu-latest  # Runs the job on the latest Ubuntu runner
 
     steps:
